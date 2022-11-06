@@ -428,7 +428,7 @@ header>.container {
         text-align: center;
     }
 }
-@media(max-width:480px){
+@media(max-width:320px){
     .grid-container{
             grid-template-areas:
         "header"
@@ -479,7 +479,7 @@ header>.container {
         margin: 0 auto;
     }
     .nutrition-type-item{
-        max-width: 320pxgit;
+        max-width: 320px;
     }
 }
 
